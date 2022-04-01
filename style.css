@@ -1,0 +1,16 @@
+body{
+    background-color: #aedcdc;
+}
+
+.b-radius-custom{
+    border-radius: 10px;
+}
+.bg-custom{
+    background-color: #f4f7fa;
+}
+.bb-custom{
+    border-bottom: 1px solid black;
+}
+.done{
+    text-decoration: line-through;
+}
